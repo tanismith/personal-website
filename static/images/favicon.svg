@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-favicon);
+      }
+
+      .cls-2 {
+        fill: #14b7ae;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+        font-family: SourceSansPro-Semibold, Source Sans Pro;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 46px;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+      }
+    </style>
+    <clipPath id="clip-favicon">
+      <rect width="51" height="51"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" class="cls-1">
+    <g id="Group_132" data-name="Group 132">
+      <path id="Path_47" data-name="Path 47" class="cls-2" d="M18.852.513c9.035,0,8.155,6.931,14.575,13.122S45.52,17.766,48.459,27.3c3.154,13.659-8.6,22.271-22.779,22.271S0,38.482,0,24.806,4.669.513,18.852.513Z" transform="translate(1 0.448)"/>
+      <text id="t" class="cls-3" transform="translate(14 42)"><tspan x="-8.349" y="0">t</tspan></text>
+      <text id="s" class="cls-4" transform="translate(32 43)"><tspan x="-10.368" y="0">s</tspan></text>
+    </g>
+  </g>
+</svg>
