@@ -2,10 +2,7 @@
     export async function preload({ params, query }) {
         const projectsResult = await this.fetch('projects.json')
         const projects = await projectsResult.json()
-
-        return {
-            projects: projects.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()),
-        }
+        return { projects }
     }
 </script>
 
@@ -13,6 +10,10 @@
     import PageTitle from '../components/PageTitle.svelte'
     import ProjectList from '../components/ProjectList.svelte'
     export let projects = []
+
+    const firstProject = 'quotes-gallery'
+
+    $: projectsSorted = projects.sort((a) => (a.slug === firstProject ? -1 : 0))
 </script>
 
 <svelte:head>
@@ -25,4 +26,4 @@
     strongTitle="Tania"
     description=" Here you can find some projects I've been working on" />
 
-<ProjectList {projects} />
+<ProjectList projects={projectsSorted} />

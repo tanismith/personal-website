@@ -156,67 +156,60 @@
     <nav class="navbar">
         <section>
             <!-- <img src="assets/logo.svg" alt="tani smith" width="150px" height="auto"> -->
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                width="200"
-                height="142"
-                viewBox="0 0 367 142">
-                <defs>
-                    <clipPath id="clip-logo">
-                        <rect width="367" height="142" />
-                    </clipPath>
-                </defs>
-                <g id="logo" clip-path="url(#clip-logo)">
-                    <path
-                        id="Path_48"
-                        data-name="Path 48"
-                        d="M45.54.513c21.824,0,19.7,16.743,35.207,31.7s29.213,9.979,36.314,33.007c7.618,33-20.765,53.8-55.026,53.8S0,92.233,0,59.2,11.279.513,45.54.513Z"
-                        transform="translate(8 12.702)"
-                        fill="#14b7ae" />
-                    <text
-                        id="t"
-                        transform="translate(42 108)"
-                        fill="#fff"
-                        font-size="100"
-                        font-family="SourceSansPro-Semibold, Source Sans Pro"
-                        font-weight="600">
-                        <tspan x="-18.15" y="0">t</tspan>
-                    </text>
-                    <text
-                        id="s"
-                        transform="translate(85 109)"
-                        fill="#fff"
-                        font-size="100"
-                        font-family="SourceSansPro-Semibold, Source Sans Pro"
-                        font-weight="600">
-                        <tspan x="-21.6" y="0">s</tspan>
-                    </text>
-                    <text
-                        id="mith."
-                        transform="translate(126.156 13.435)"
-                        fill="#00aaa1"
-                        font-size="100"
-                        font-family="SourceSansPro-Semibold, Source Sans Pro"
-                        font-weight="600">
-                        <tspan x="0" y="102">mith.</tspan>
-                    </text>
-                </g>
-            </svg>
+            <a href="/">
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="200"
+                    height="142"
+                    viewBox="0 0 367 142">
+                    <defs>
+                        <clipPath id="clip-logo">
+                            <rect width="367" height="142" />
+                        </clipPath>
+                    </defs>
+                    <g id="logo" clip-path="url(#clip-logo)">
+                        <path
+                            id="Path_48"
+                            data-name="Path 48"
+                            d="M45.54.513c21.824,0,19.7,16.743,35.207,31.7s29.213,9.979,36.314,33.007c7.618,33-20.765,53.8-55.026,53.8S0,92.233,0,59.2,11.279.513,45.54.513Z"
+                            transform="translate(8 12.702)"
+                            fill="#14b7ae" />
+                        <text
+                            id="t"
+                            transform="translate(42 108)"
+                            fill="#fff"
+                            font-size="100"
+                            font-family="SourceSansPro-Semibold, Source Sans Pro"
+                            font-weight="600">
+                            <tspan x="-18.15" y="0">t</tspan>
+                        </text>
+                        <text
+                            id="s"
+                            transform="translate(85 109)"
+                            fill="#fff"
+                            font-size="100"
+                            font-family="SourceSansPro-Semibold, Source Sans Pro"
+                            font-weight="600">
+                            <tspan x="-21.6" y="0">s</tspan>
+                        </text>
+                        <text
+                            id="mith."
+                            transform="translate(126.156 13.435)"
+                            fill="#00aaa1"
+                            font-size="100"
+                            font-family="SourceSansPro-Semibold, Source Sans Pro"
+                            font-weight="600">
+                            <tspan x="0" y="102">mith.</tspan>
+                        </text>
+                    </g>
+                </svg></a>
         </section>
         <ul>
-            <li>
-                <a class:is-active={!currentPage} href=".">Work Approach</a>
-            </li>
-            <li>
-                <a class:is-active={currentPage === 'about'} href="about">About</a>
-            </li>
-            <li>
-                <a rel="prefetch" class:is-active={currentPage === 'blog'} href="blog">Blog</a>
-            </li>
-            <li>
-                <a href="mailto:hi@tanismith.com">Say hi</a>
-            </li>
+            <li><a class:is-active={!currentPage} href=".">Work Approach</a></li>
+            <li><a class:is-active={currentPage === 'about'} href="about">About</a></li>
+            <li><a rel="prefetch" class:is-active={currentPage === 'blog'} href="blog">Blog</a></li>
+            <li><a href="mailto:hi@tanismith.com">Say hi</a></li>
         </ul>
         <a id="menuIcon" href="#/" class:nav-active={active} on:click={() => (active = !active)}>
             <i class="fas fa-bars" />

@@ -2,12 +2,17 @@
     import { each } from 'svelte/internal'
 
     export let project
+    export let left = true
+    export let right = false
 </script>
 
 <figure class="gallery-element" data-name={project.title}>
-    <a href={project.link || `projects/${project.slug}`} target="_blank">
-        <img src={project.thumb} alt={project.title} width="400" height="280" />
-    </a>
+    {#if left}
+        <a href={project.link || `projects/${project.slug}`} target="_blank">
+            <img src={project.thumb} alt={project.title} width="400" height="280" />
+        </a>
+    {/if}
+
     <div class="projectsFlexDescription">
         <a href={project.link} target="_blank">
             <h3>{project.title}</h3>
@@ -25,4 +30,9 @@
         <article>{project.overview}</article>
         <a href={project.link || `projects/${project.slug}`}>See more</a>
     </div>
+    {#if right}
+        <a href={project.link || `projects/${project.slug}`} target="_blank">
+            <img src={project.thumb} alt={project.title} width="400" height="280" />
+        </a>
+    {/if}
 </figure>
