@@ -15,9 +15,9 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'MM-DD-YYYY', time_format: 'HH:mm' }
           - { label: 'Overview', name: 'overview', widget: 'string' }
-          - { label: 'Tags', name: 'tags', widget: 'list' }
+          - { label: 'Tags', name: 'tags', widget: 'list', required: false }
           - { label: 'Thumbnail', name: 'thumb', widget: image }
-          - { label: 'Image', name: 'img', widget: 'image' }
+          - { label: 'Image', name: 'img', widget: 'image', required: false }
           - { label: 'intro', name: 'intro', widget: 'markdown' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -28,11 +28,18 @@ collections:
       fields:
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'MM-DD-YYYY', time_format: 'HH:mm' }
+          - {
+                label: 'Date',
+                name: 'date',
+                widget: 'datetime',
+                date_format: 'MM-DD-YYYY',
+                time_format: 'HH:mm',
+                required: false,
+            }
           - { label: 'Overview', name: 'overview', widget: 'string' }
-          - { label: 'Tags', name: 'tags', widget: 'list' }
-          - { label: 'Tools', name: 'tools', widget: 'list' }
+          - { label: 'Tags', name: 'tags', widget: 'list', required: false }
+          - { label: 'Tools', name: 'tools', widget: 'list', required: false }
           - { label: 'Thumbnail', name: 'thumb', widget: image }
-          - { label: 'Image', name: 'img', widget: 'image' }
-          - { label: 'link', name: 'link', widget: 'string' }
+          - { label: 'Image', name: 'img', widget: 'image', required: false }
+          - { label: 'link', name: 'link', widget: 'string', required: false }
           - { label: 'Body', name: 'body', widget: 'markdown' }
