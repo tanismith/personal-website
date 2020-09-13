@@ -25,8 +25,8 @@
     <section class="gallery-blogs-container">
         {#each posts as post}
             <div class="post-container">
-                <a href="blog/{post.slug}">
-                    <img src={post.img} alt="Vormet website" />
+                <a rel="prefetch" href="blog/{post.slug}">
+                    <img src={post.thumb} alt="Vormet website" />
                     <h3>
                         {#each post.tags as tag}{tag}{/each}
                     </h3>
@@ -39,11 +39,4 @@
             </div>
         {/each}
     </section>
-    {#each posts as post}
-        <!-- we're using the non-standard `rel=prefetch` attribute to
-				tell Sapper to load the data for the page as soon as
-				the user hovers over the link or taps it, instead of
-				waiting for the 'click' event -->
-        <li><a rel="prefetch" href="blog/{post.slug}">{post.title}</a></li>
-    {/each}
 </ul>

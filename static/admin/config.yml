@@ -13,7 +13,9 @@ collections:
       fields:
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Date', name: 'date', widget: 'string' }
+          - { label: 'Date', name: 'date', widget: 'datetime', date_format: 'MM-DD-YYYY', time_format: 'HH:mm' }
           - { label: 'Overview', name: 'overview', widget: 'string' }
+          - { label: 'Tags', name: 'tags', widget: 'list' }
+          - { label: 'Thumbnail', name: 'thumb', widget: image }
           - { label: 'Image', name: 'img', widget: 'image' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
