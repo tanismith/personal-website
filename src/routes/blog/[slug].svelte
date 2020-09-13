@@ -57,9 +57,24 @@
     <title>{post.title}</title>
 </svelte:head>
 
-<div class="container">
-    <div class="content section">
+<section class="nav-before-after">
+    <div class="before"><a href="/blog"><i class="fas fa-angle-left" />Back</a></div>
+</section>
+<section class="article-description">
+    <div>
         <h1>{post.title}</h1>
-        {@html post.html}
+        <hr />
+        <h3>
+            {#each post.tags as tag}{tag}{/each}
+        </h3>
+        <small>{new Date(post.date).toLocaleDateString()}</small>
+        <p>{post.intro}</p>
     </div>
-</div>
+    <img src={post.img} alt={post.title} width="400" height="400" />
+</section>
+<hr class="divider" />
+<section class="article-intro">
+    <article>
+        {@html post.html}
+    </article>
+</section>
