@@ -2,7 +2,7 @@
     export async function preload({ params, query }) {
         // the `slug` parameter is available because
         // this file is called [slug].svelte
-        const res = await this.fetch(`blog/${params.slug}.json`)
+        const res = await this.fetch(`projects/${params.slug}.json`)
         const data = await res.json()
 
         if (res.status === 200) {
@@ -14,15 +14,12 @@
 </script>
 
 <script>
-    export let post
     import Article from '../../components/Article.svelte'
+    export let post
 </script>
 
 <svelte:head>
     <title>{post.title}</title>
 </svelte:head>
 
-<section class="nav-before-after">
-    <div class="before"><a href="/blog"><i class="fas fa-angle-left" />Back</a></div>
-</section>
 <Article article={post} />
