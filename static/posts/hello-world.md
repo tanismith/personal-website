@@ -3,7 +3,7 @@ slug: hello-world
 title: Hello world
 date: 05-29-2020
 overview: Este es un overview
-img: /uploads/image.png
+img: /uploads/screen-shot-2020-09-12-at-21.04.15.png
 tags:
   - Productivity
 ---
