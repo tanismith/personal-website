@@ -23,7 +23,7 @@ collections:
 
     - name: 'projects'
       label: 'Projects'
-      folder: 'static/project'
+      folder: 'static/projects'
       create: true
       fields:
           - { label: 'Slug', name: 'slug', widget: 'string' }
