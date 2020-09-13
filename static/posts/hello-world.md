@@ -2,7 +2,11 @@
 slug: hello-world
 title: Mashpi Chocolate Artesanal
 date: 2020-05-03T05:00:00.000Z
-overview: Este es un overview
+overview: Mashpi Chocolate Artesanal es una marca reconocida de chocolate.
+  Ganadora de premios a nivel local e internacional. Localizada en el Chocó
+  Andino de Ecuador.  El crecimiento del negocio demandaba la necesidad de
+  actualizar su sitio web tipo E-commerce para posicionarse y vender sus
+  productos.
 tags:
   - Web Application
 thumb: /uploads/screen-shot-2020-09-12-at-21.04.15.png
