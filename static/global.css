@@ -409,6 +409,7 @@ small,
 	width: 100%;
 	height: 200px;
 	border-radius: 15px;
+	object-fit: cover;
 }
 
 .article-description div {
