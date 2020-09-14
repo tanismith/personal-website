@@ -96,6 +96,8 @@
     position: absolute;
     bottom: 0;
     padding: 0 6px;
+    width: 25px;
+    height: auto;
   }
 
   /* Aqui terminan estilos del nav */
@@ -105,7 +107,7 @@
       position: fixed;
       background-color: white;
       width: 100%;
-      height: 60px;
+      height: 50px;
       z-index: 999;
     }
 
@@ -217,7 +219,7 @@
           href="blog">Blog</a>
       </li>
       <li>
-        <a href="mailto:hola@tanismith.com">Say hi <img src="/static/images/icon-message.png" alt="message-icon" />
+        <a href="mailto:hola@tanismith.com">Say hi <img class="message-icon" src="/images/icon-message.png" alt="message-icon" />
         </a>
       </li>
     </ul>
