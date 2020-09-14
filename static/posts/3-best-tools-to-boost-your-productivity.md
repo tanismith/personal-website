@@ -9,7 +9,7 @@ overview: Making things happen implies being clear and defined what you want and
 tags:
   - Productivity
 thumb: /uploads/tumbnail.jpg
-img: /uploads/tumbnail.png
+img: /uploads/tumbnail.jpg
 intro: >-
   Making things happen implies being clear and defined what you want and also an
   action plan to serve as a guide.
@@ -32,11 +32,11 @@ Disclaimer: This post is not sponsored. These companies don't pay me to talk abo
 
 - - -
 
-### Tool 1: Notion
+## Tool 1: Notion
 
 A super tool with a minimalist and easy-to-use interface, the app is extremely useful, a bit scary at first. Where to begin?
 
-#### **Structure a space for effective workflow.**
+### **Structure a space for effective workflow**
 
 The first step is for you to draw on a sheet and draw your ideal workspace. In my case, I divided it into:
 
@@ -54,8 +54,6 @@ This is truly a powerful motivation. As well as marking ✔️ in the task that 
 
 I can use multiple pages and organize them in a useful way. To get started it is excellent to use [templates](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) and play around with them.
 
-![Notion formulas](/uploads/screen-shot-2020-09-14-at-10.40.41.png "Notion formulas")
-
 Outside of work I also use space for my long-term goals, habits I'm practicing, book list, journal, notes, etc.
 
 ![Notion reading lists](/uploads/2-reading-list.png "Notion reading lists")
@@ -66,7 +64,7 @@ Notion also has a mobile app, so I can keep track of pending tasks, documents, a
 
 The most important thing is that you organize it in a way that works for you. Everyone has their way of doing things and their priorities.
 
-#### Prices
+### Prices
 
 You can use the personal account plan, it is a free version, although the paid version offers a few more things, especially if you want to work with more people and save previous versions of your pages (file).
 
@@ -74,7 +72,7 @@ You can use the personal account plan, it is a free version, although the paid v
 
 - - -
 
-### Tool 2. Forest App
+## Tool 2. Forest App
 
 Picking up the cell phone every 5 min just to swipe without meaningful purpose is a habit that takes up valuable time. Forest App makes it easy to put your phone down to focus on important tasks.
 
@@ -88,7 +86,7 @@ My forest looks like this after planting a whole week. The beauty of this is tha
 
 ![Forest screens](/uploads/4-forest-app.png "Forest screens")
 
-#### Know when you are most productive
+### Know when you are most productive
 
 Forest presents complete statistics, it is here where I was able to know in what hours and days I'm most productive. I also drastically reduced the time spent in front of the phone screen. The 6 hours decreased to 1 hr 30 min. \
 \
@@ -100,7 +98,7 @@ In the beginning, it was difficult and in order not to be tempted to take the ph
 
 - - -
 
-### Tool 3. AppBlock
+## Tool 3. AppBlock
 
 One of the simplest apps I found. AppBlock allows you to schedule specific times to block applications and their websites. On my list: All social including WhatsApp and Google Photos.
 
