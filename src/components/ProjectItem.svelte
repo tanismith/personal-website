@@ -1,7 +1,4 @@
 <script>
-  import { link } from "fs";
-  import { each } from "svelte/internal";
-
   export let project;
   export let left = true;
   export let right = false;
