@@ -11,10 +11,6 @@
       consequuntur facere, eos eum exercitationem cum voluptas ipsam vitae iusto
       consectetur ipsum.
     </p>
-    <img
-      src="/images/about.jpg"
-      alt="tania-smith-senmache"
-      width="380px"
-      height="auto" />
+    <img src="/images/about.jpg" alt="tania-smith-senmache" />
   </div>
 </div>
