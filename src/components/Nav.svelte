@@ -2,6 +2,10 @@
   //TODO fix responsive
   export let currentPage;
   let active = false;
+
+  $: if (currentPage || currentPage === undefined) {
+    active = false;
+  }
 </script>
 
 <style>
@@ -115,17 +119,36 @@
     /* Estilos del nav */
     header #menuIcon {
       display: block;
+      z-index: 3;
     }
 
-    .nav-active {
-      background-color: rgba(255, 255, 255, 0.906);
+    .nav {
+      background-color: rgba(206, 240, 240, 0.906);
       display: flex;
       flex-direction: column;
       position: absolute;
-      z-index: 2;
-      width: 60%;
+      z-index: 1;
+      top: 0;
+      right: -100%;
+      width: 100%;
       height: 100vh;
       justify-content: center;
+      align-items: center;
+      transition: 0.5s;
+    }
+
+    .nav-active {
+      background-color: rgba(206, 240, 240, 0.906);
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
     }
 
     header .navbar {
@@ -136,11 +159,8 @@
     header nav ul {
       display: none;
     }
-
-    .nav-active ul li {
-      text-align: center;
-      padding: 1.3em 0;
-      list-style: none;
+    header nav ul li {
+      padding: 10px 0;
     }
 
     nav {
@@ -209,7 +229,7 @@
           </g>
         </svg></a>
     </section>
-    <ul>
+    <ul class="nav" class:nav-active={active}>
       <li><a class:is-active={!currentPage} href=".">Portfolio</a></li>
       <li>
         <a class:is-active={currentPage === 'about'} href="about">About</a>
@@ -225,31 +245,8 @@
         </a>
       </li>
     </ul>
-    <a
-      id="menuIcon"
-      href="#/"
-      class:nav-active={active}
-      on:click={() => (active = !active)}>
+    <a id="menuIcon" on:click={() => (active = !active)}>
       <i class="fas fa-bars" />
     </a>
   </nav>
 </header>
-<!-- <div class="nav-active" style="right: {active ? '0' : '-100vw'}">
-    <ul>
-        <li>
-            <a href="index.html">Work Approach</a>
-        </li>
-        <li>
-            <a href="about.html">About</a>
-        </li>
-        <li>
-            <a href="blog.html">Blog</a>
-        </li>
-        <li>
-            <a href="mailto:hi@tanismith.com">
-                Say hi
-                <img class="message-icon" src="assets/icon-message.svg" />
-            </a>
-        </li>
-    </ul>
-</div> -->
