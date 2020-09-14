@@ -1,7 +1,7 @@
 ---
 slug: mashpi-chocolate-artesanal
 title: Mashpi Chocolate Artesanal
-date: 2020-09-14T00:19:48.612Z
+date: 2019-06-11T00:19:48.612Z
 overview: Mashpi Chocolate Artesanal is a recognized brand of chocolate. Winner
   of awards locally and internationally. Business growth required an E-commerce
   website that reflects the personality of your brand and products.
