@@ -105,7 +105,10 @@
   .projectsFlex .gallery-element {
     margin: 2em 0;
   }
-
+  .gallery-element .image {
+    width: 100%;
+    height: auto;
+  }
   .gallery-element img {
     width: 100%;
     height: auto;
