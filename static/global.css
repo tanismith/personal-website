@@ -301,7 +301,8 @@ article img,
 }
 
 .gallery-element .image {
-  width: 50%;
+  width: 500px;
+  height: auto;
 }
 
 .gallery-element a {
@@ -310,8 +311,7 @@ article img,
 
 .gallery-element img {
   box-shadow: 1px 1px 10px 1px var(--color-shadow);
-  width: 50%;
-  height: 200px;
+  width: 100%;
 }
 
 .gallery-element h3,
