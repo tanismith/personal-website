@@ -98,3 +98,19 @@ By making me more aware of my available time and spending it on important activi
 If you go for the premium version, you can plant trees with friends, it also allows you to have a list of applications that you can use in the background, the objective is that you do not use the ones that instead of adding, subtract energy.
 
 In the beginning, it was difficult and in order not to be tempted to take the phone, so I combined this app with the third in the top 3.
+
+- - -
+
+### Tool 3. AppBlock
+
+One of the simplest apps I found. AppBlock allows you to schedule specific times to block applications and their websites. On my list: All social including WhatsApp and Google Photos.
+
+The app is protected from being deactivated while it is running. I feel calmer by not receiving notifications on the screen, over time I have seen that the anxiety about taking the phone has decreased and my productivity has increased.
+
+![App block screens](/uploads/7-appblock.png "App block screens")
+
+- - -
+
+These three tools have helped me organize, prioritize, and have more goals accomplished.
+
+Do you use any of these applications? Let me know. I am always interested in how others maximize their productivity.
