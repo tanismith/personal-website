@@ -264,7 +264,10 @@ hr {
   flex-direction: row;
   margin: 3em auto;
   justify-content: center;
-  width: 65%;
+  width: 80%;
+}
+.article-description hr {
+  margin: 0;
 }
 
 .projectsContainer img,
@@ -358,7 +361,7 @@ small,
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: left;
-  width: 50%;
+  width: 60%;
   margin: 0 auto;
 }
 
