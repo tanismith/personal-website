@@ -1,15 +1,18 @@
 <script>
+  import { link } from "fs";
   import { each } from "svelte/internal";
 
   export let project;
   export let left = true;
   export let right = false;
+
+  $: target = project.link ? "_blank" : "_self";
 </script>
 
 <figure class="gallery-element" data-name={project.title}>
   {#if left}
     <div class="image">
-      <a href={project.link || `projects/${project.slug}`} target="_blank">
+      <a href={project.link || `projects/${project.slug}`} {target}>
         <img src={project.thumb} alt={project.title} />
       </a>
     </div>
@@ -40,7 +43,7 @@
   </div>
   {#if right}
     <div class="image">
-      <a href={project.link || `projects/${project.slug}`} target="_blank">
+      <a href={project.link || `projects/${project.slug}`} {target}>
         <img src={project.thumb} alt={project.title} />
       </a>
     </div>
