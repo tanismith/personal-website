@@ -21,7 +21,7 @@
 
 .container {
   width: 100%;
-  padding: 5em 0;
+  padding: 5em 0 1em 0;
 }
 
 a {
@@ -365,7 +365,7 @@ small,
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: left;
-  width: 60%;
+  max-width: 60%;
   margin: 0 auto;
 }
 
