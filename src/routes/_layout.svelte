@@ -13,7 +13,7 @@
     <slot />
   </Container>
   <section class="madeBy">
-    <p>Handcrafted with ❤ by Tani</p>
+    <p>Made with ❤ by Tani</p>
   </section>
 </main>
 <Footer />

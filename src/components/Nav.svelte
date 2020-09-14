@@ -217,7 +217,7 @@
           href="blog">Blog</a>
       </li>
       <li>
-        <a href="mailto:hola@tanismith.com">Say hi <img src="./static/images/icon-message.png" alt="message-icon" />
+        <a href="mailto:hola@tanismith.com">Say hi <img src="/static/images/icon-message.png" alt="message-icon" />
         </a>
       </li>
     </ul>
