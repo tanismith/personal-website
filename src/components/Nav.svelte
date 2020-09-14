@@ -150,6 +150,8 @@
 
     nav svg {
       padding-left: 1em;
+      margin-top: -50px;
+      width: 60%;
     }
   }
 </style>
