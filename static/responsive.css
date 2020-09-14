@@ -53,7 +53,9 @@
     width: 100%;
     height: auto;
   }
-
+  article ul {
+    margin-left: 1em;
+  }
   .gallery-blogs-container {
     width: 95%;
     display: grid;
