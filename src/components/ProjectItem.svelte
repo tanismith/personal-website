@@ -8,9 +8,11 @@
 
 <figure class="gallery-element" data-name={project.title}>
   {#if left}
-    <a href={project.link || `projects/${project.slug}`} target="_blank">
-      <img src={project.thumb} alt={project.title} />
-    </a>
+    <div class="image">
+      <a href={project.link || `projects/${project.slug}`} target="_blank">
+        <img src={project.thumb} alt={project.title} />
+      </a>
+    </div>
   {/if}
 
   <div class="projectsFlexDescription">
@@ -37,8 +39,10 @@
     <a href={project.link || `projects/${project.slug}`}>See more</a>
   </div>
   {#if right}
-    <a href={project.link || `projects/${project.slug}`} target="_blank">
-      <img src={project.thumb} alt={project.title} />
-    </a>
+    <div class="image">
+      <a href={project.link || `projects/${project.slug}`} target="_blank">
+        <img src={project.thumb} alt={project.title} />
+      </a>
+    </div>
   {/if}
 </figure>
