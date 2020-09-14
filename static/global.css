@@ -217,7 +217,7 @@ h4 {
   margin: 0;
 }
 
-hr {
+.title-page-container hr {
   width: 6rem;
   background-color: var(--color-title);
   height: 2px;
@@ -264,7 +264,7 @@ hr {
   flex-direction: row;
   margin: 3em auto;
   justify-content: center;
-  width: 80%;
+  width: 70%;
 }
 .article-description hr {
   margin: 0;
@@ -276,6 +276,10 @@ hr {
 article img,
 .aboutDescription img {
   border-radius: 10px;
+}
+.article-description img {
+  width: 50%;
+  height: auto;
 }
 
 .css-image:hover,
@@ -372,7 +376,7 @@ small,
 }
 
 .gallery-blogs-container {
-  width: 70%;
+  width: 80%;
   margin: 0 auto 5rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -434,6 +438,13 @@ article h1,
   line-height: 4rem;
   color: var(--color-title);
 }
+article ul {
+  margin-left: 3em;
+}
+
+article ul li {
+  margin: 0;
+}
 
 .article-description p,
 .article-intro p,
@@ -441,7 +452,7 @@ article li {
   font-family: var(--texts-font);
   font-size: var(--text-font-size);
   color: var(--color-text);
-  margin: 2em 0;
+  margin: 1em 0;
   text-align: justify;
 }
 
@@ -484,6 +495,7 @@ article h2 {
   font-family: var(--texts-font);
   font-size: var(--subtitle-font-size);
   color: rgba(33, 32, 32, 0.85);
+  margin-top: 2em;
 }
 
 .post-container p {

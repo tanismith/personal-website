@@ -23,11 +23,7 @@
       {@html article.intro || article.overview}
     </p>
   </div>
-  <img
-    src={article.img || article.thumb}
-    alt={article.title}
-    width="400"
-    height="400" />
+  <img src={article.img || article.thumb} alt={article.title} />
 </section>
 <hr class="divider" />
 <section class="article-intro">
