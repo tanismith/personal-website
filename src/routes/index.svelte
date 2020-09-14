@@ -27,3 +27,10 @@
   description=" Here you can find some projects I've been working on" />
 
 <ProjectList projects={projectsSorted} />
+
+<PageTitle
+  mode=" "
+  title=" "
+  strongTitle=" "
+  description="Thank you for visiting and scrolling through my portfolio. <br> If you want to talk
+  about any of my projects, or just chat, I'd love to hear from you!" />
