@@ -1,38 +1,45 @@
-import path from 'path'
-import fs from 'fs'
-import grayMatter from 'gray-matter'
-import marked from 'marked'
+import path from "path";
+import fs from "fs";
+import grayMatter from "gray-matter";
+import marked from "marked";
 
 const getPost = (fileName) => {
-	return fs.readFileSync(path.resolve('static/posts/', `${fileName}.md`), 'utf-8')
-}
+  return fs.readFileSync(
+    path.resolve("static/posts/", `${fileName}.md`),
+    "utf-8"
+  );
+};
 
 export function get(req, res, _) {
-	const { slug } = req.params
+  const { slug } = req.params;
 
-	const post = getPost(slug)
+  const post = getPost(slug);
 
-	const renderer = new marked.Renderer()
+  const renderer = new marked.Renderer();
 
-	const { data, content } = grayMatter(post)
+  const { data, content } = grayMatter(post);
 
-	const html = marked(content, { renderer })
+  const { intro } = data;
 
-	if (html) {
-		res.writeHead(200, {
-			'Content-Type': 'application/json',
-		})
+  data.intro = marked(intro, { renderer });
 
-		res.end(JSON.stringify({ html, ...data }))
-	} else {
-		res.writeHead(404, {
-			'Content-Type': 'application/json',
-		})
+  const html = marked(content, { renderer });
 
-		res.end(
-			JSON.stringify({
-				message: `Not found`,
-			})
-		)
-	}
+  if (html) {
+    res.writeHead(200, {
+      "Content-Type": "application/json",
+    });
+
+    res.end(JSON.stringify({ html, ...data }));
+  } else {
+    res.writeHead(404, {
+      "Content-Type": "application/json",
+    });
+
+    res.end(
+      JSON.stringify({
+        message: `Not found`,
+      })
+    );
+  }
 }
