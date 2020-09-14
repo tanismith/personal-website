@@ -29,13 +29,13 @@
   }
 
   .article-intro {
-    width: 70%;
+    width: 85%;
   }
 
   .article-description,
   .about {
     flex-direction: column;
-    width: 70%;
+    width: 85%;
   }
 
   .article-description div {
