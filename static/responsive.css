@@ -8,6 +8,9 @@
   .article-intro {
     padding: 0;
   }
+  .nav-before-after {
+    width: 85%;
+  }
 
   .about h1,
   .about span {
