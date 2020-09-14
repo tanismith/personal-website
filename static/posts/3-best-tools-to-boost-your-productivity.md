@@ -7,9 +7,8 @@ overview: " Making things happen implies being clear and defined what you want
   recently discovered and found to be quite effective. They have allowed me to
   achieve the following results..."
 tags:
-  - productivity
-  - tools
-thumb: /uploads/tumbnail.png
+  - Productivity
+thumb: /uploads/tumbnail.jpg
 img: /uploads/tumbnail.png
 intro: >-
   Making things happen implies being clear and defined what you want and also an
