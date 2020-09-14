@@ -37,7 +37,7 @@ Disclaimer: This post is not sponsored. These companies don't pay me to talk abo
 
 A super tool with a minimalist and easy-to-use interface, the app is extremely useful, a bit scary at first. Where to begin?
 
-#### **Structure a space for effective workflow.** 
+#### **Structure a space for effective workflow.**
 
 The first step is for you to draw on a sheet and draw your ideal workspace. In my case, I divided it into:
 
@@ -71,4 +71,30 @@ The most important thing is that you organize it in a way that works for you. Ev
 
 You can use the personal account plan, it is a free version, although the paid version offers a few more things, especially if you want to work with more people and save previous versions of your pages (file).
 
-![]()
+![Notion prices](/uploads/3-notion-prices.png "Notion prices")
+
+- - -
+
+### Tool 2. Forest App
+
+Picking up the cell phone every 5 min just to swipe without meaningful purpose is a habit that takes up valuable time. Forest App makes it easy to put your phone down to focus on important tasks.
+
+![Forest app features](/uploads/5-forest-app-features.png "Forest app features")
+
+With this app a forest grows while I focus on a task, first I choose the type of tree I want to plant and then I decide the time (every 30, 60, 90, or 120 min) to work. If for any reason I leave the app the trees die. My sense of responsibility and my sincere appreciation for plants do not allow me to let trees die, so day after day I do my best.
+
+A plus that this app has is that with the points generated, a real tree is planted through the [Trees for Future Foundation](https://trees.org/waystohelp/). It is a great opportunity to contribute. I've got 5 real trees planted.
+
+My forest looks like this after planting a whole week. The beauty of this is that developing the habit of consistency and focus is priceless.
+
+![Forest screens](/uploads/4-forest-app.png "Forest screens")
+
+#### Know when you are most productive
+
+Forest presents complete statistics, it is here where I was able to know in what hours and days I'm most productive. I also drastically reduced the time spent in front of the phone screen. The 6 hours decreased to 1 hr 30 min. \
+\
+By making me more aware of my available time and spending it on important activities, I also avoid overloading my mind with unnecessary information.
+
+If you go for the premium version, you can plant trees with friends, it also allows you to have a list of applications that you can use in the background, the objective is that you do not use the ones that instead of adding, subtract energy.
+
+In the beginning, it was difficult and in order not to be tempted to take the phone, so I combined this app with the third in the top 3.
