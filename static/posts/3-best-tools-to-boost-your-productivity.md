@@ -1,11 +1,11 @@
 ---
-slug: " 3-best-tools-to-boost-your-productivity"
-title: " 3 best tools to boost your productivity"
+slug: 3-best-tools-to-boost-your-productivity
+title: 3 best tools to boost your productivity
 date: 2020-05-25T16:18:47.654Z
-overview: " Making things happen implies being clear and defined what you want
-  and also an action plan to serve as a guide.  Here are three tools that I
-  recently discovered and found to be quite effective. They have allowed me to
-  achieve the following results..."
+overview: Making things happen implies being clear and defined what you want and
+  also an action plan to serve as a guide.  Here are three tools that I recently
+  discovered and found to be quite effective. They have allowed me to achieve
+  the following results...
 tags:
   - Productivity
 thumb: /uploads/tumbnail.jpg
