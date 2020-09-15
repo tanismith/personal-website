@@ -27,9 +27,9 @@
     color: var(--color-text);
   }
 
-  .header a:hover {
+  /* .header a:hover {
     color: var(--color-title);
-  }
+  } */
 
   /* Aqui terminan estilos del header */
 
