@@ -294,6 +294,7 @@ article img,
 
 .aboutDescription img {
   margin: 0 2em;
+  width: 40%;
 }
 
 .projectsFlex {
