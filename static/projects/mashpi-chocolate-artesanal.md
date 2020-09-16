@@ -49,9 +49,7 @@ During the wireframing, I drew the necessary screens to ensure a good UX before 
 
 There wasn´t a style guide or manual. The brand needed the styles to remain in harmony with its logo and product packaging. It was agreed to use previously used colors and fonts.
 
-![fonts image](/uploads/fonts-style.png "fonts")
-
-![colors image](/uploads/colors.png "colors")
+![fonts image](/uploads/mashpi-ui-style.webp "fonts")
 
 ### Stage 4: High fidelity UI
 
@@ -59,17 +57,17 @@ There wasn´t a style guide or manual. The brand needed the styles to remain in 
 
 Home and products page
 
-![ Product detail page and shopping cart image](/uploads/ui-producto-y-carrito.png " Product detail page and shopping cart")
+![ Product detail page and shopping cart image](/uploads/mashpi-ui-product.webp " Product detail page and shopping cart")
 
  Product detail page and shopping cart
 
-![Information pages UI image](/uploads/ui-informative-pages.png "Other pages UI - Awards and guarantees page")
+![Information pages UI image](/uploads/mashpi-ui-page.webp "Other pages UI - Awards and guarantees page")
 
 ### Stage 5: Evaluation and adjustments
 
 The client asked to include new photos and a new "ingredients" section within the "Our chocolate" page. More color was added to backgrounds with brand illustrations.
 
-![Ingredients section and website footer image](/uploads/ui-seccion-y-footer.png " Ingredients section and website footer")
+![Ingredients section and website footer image](/uploads/mashpi-ui-ingredients.webp " Ingredients section and website footer")
 
 ### Stage 6: Final product
 
