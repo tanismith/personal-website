@@ -279,7 +279,8 @@ article img,
 }
 .article-description img {
   width: 50%;
-  height: auto;
+  height: 400px;
+  margin-top: 1em;
 }
 
 .css-image:hover,
