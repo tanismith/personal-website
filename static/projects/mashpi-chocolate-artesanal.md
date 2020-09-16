@@ -10,8 +10,8 @@ tags:
 tools:
   - Figma
   - WordPress
-thumb: /uploads/mashpi-chocolate-thumbnail.png
-img: /uploads/mashpi-chocolate-thumbnail.png
+thumb: /uploads/mashpi-chocolate-ui-1-.png
+img: /uploads/mashpi-chocolate-ui-1-.png
 ---
 ## **Challenge**
 
