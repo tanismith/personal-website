@@ -11,7 +11,7 @@
   import ProjectList from "../components/ProjectList.svelte";
   export let projects = [];
 
-  const firstProject = "quotes-gallery";
+  const firstProject = "mashpi-chocolate-artesanal";
 
   $: projectsSorted = projects.sort((a) => (a.slug === firstProject ? -1 : 0));
 </script>

@@ -264,7 +264,7 @@ h4 {
   flex-direction: row;
   margin: 3em auto;
   justify-content: center;
-  width: 70%;
+  width: 80%;
 }
 .article-description hr {
   margin: 0;
@@ -294,7 +294,7 @@ article img,
 
 .aboutDescription img {
   margin: 0 2em;
-  width: 40%;
+  max-width: 40%;
 }
 
 .projectsFlex {
@@ -427,8 +427,8 @@ small,
 }
 
 .article-description div {
-  width: 50%;
-  margin-right: 4em;
+  width: 35%;
+  margin-right: 3em;
 }
 
 .article-description h1,
