@@ -55,7 +55,7 @@ There wasn´t a style guide or manual. The brand needed the styles to remain in 
 
 ### Stage 4: High fidelity UI
 
-![Home and products page image](/uploads/ui-mashpi-inicio.png "Home and products page")
+![Home and products page image](/uploads/mashpi-ui-home.webp "Home and products page")
 
 Home and products page
 
