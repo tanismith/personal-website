@@ -8,8 +8,8 @@ overview: Making things happen implies being clear and defined what you want and
   the following results...
 tags:
   - Productivity
-thumb: /uploads/tumbnail.jpg
-img: /uploads/tumbnail.jpg
+thumb: /uploads/thumbnail-3-tools.webp
+img: /uploads/thumbnail-3-tools.webp
 intro: >-
   Making things happen implies being clear and defined what you want and also an
   action plan to serve as a guide.
@@ -46,7 +46,7 @@ The first step is for you to draw on a sheet and draw your ideal workspace. In m
 
 After having the most practical idea for you, start generating a new page with the categories. I recommend using tables since you can relate characteristics from one to another, which allows you to synchronize tasks in a certain way in relation to projects or objectives you have.
 
-![Tani workspace Notion](/uploads/1-work_space_notion_tani.png "Tani workspace Notion")
+![Tani workspace Notion](/uploads/work_space_notion_tani.webp "Tani workspace Notion")
 
 Each of these categories is linked to a table where the details of each task and project are stored. For example, in the Projects category, I can enter data such as: name, relation to the objective pursued, the status (active, paused, or finished), the associated tasks are also placed and when all are completed the progress will be marked as 100 %.
 
@@ -56,7 +56,7 @@ I can use multiple pages and organize them in a useful way. To get started it is
 
 Outside of work I also use space for my long-term goals, habits I'm practicing, book list, journal, notes, etc.
 
-![Notion reading lists](/uploads/2-reading-list.png "Notion reading lists")
+![Notion reading lists](/uploads/reading-list-notion.webp "Notion reading lists")
 
 Here you can enjoy learning little things that make Notion a powerful tool to improve your daily life: [23 Notion Tips](https://www.youtube.com/watch?v=FcnXOicBo0M)
 
@@ -68,7 +68,7 @@ The most important thing is that you organize it in a way that works for you. Ev
 
 You can use the personal account plan, it is a free version, although the paid version offers a few more things, especially if you want to work with more people and save previous versions of your pages (file).
 
-![Notion prices](/uploads/3-notion-prices.png "Notion prices")
+![Notion prices](/uploads/notion-prices.webp "Notion prices")
 
 - - -
 
@@ -76,7 +76,7 @@ You can use the personal account plan, it is a free version, although the paid v
 
 Picking up the cell phone every 5 min just to swipe without meaningful purpose is a habit that takes up valuable time. Forest App makes it easy to put your phone down to focus on important tasks.
 
-![Forest app features](/uploads/5-forest-app-features.png "Forest app features")
+![Forest app features](/uploads/forest-app-features.webp "Forest app features")
 
 With this app a forest grows while I focus on a task, first I choose the type of tree I want to plant and then I decide the time (every 30, 60, 90, or 120 min) to work. If for any reason I leave the app the trees die. My sense of responsibility and my sincere appreciation for plants do not allow me to let trees die, so day after day I do my best.
 
@@ -84,7 +84,7 @@ A plus that this app has is that with the points generated, a real tree is plant
 
 My forest looks like this after planting a whole week. The beauty of this is that developing the habit of consistency and focus is priceless.
 
-![Forest screens](/uploads/4-forest-app.png "Forest screens")
+![Forest screens](/uploads/forest.webp "Forest screens")
 
 ### Know when you are most productive
 
@@ -104,7 +104,7 @@ One of the simplest apps I found. AppBlock allows you to schedule specific times
 
 The app is protected from being deactivated while it is running. I feel calmer by not receiving notifications on the screen, over time I have seen that the anxiety about taking the phone has decreased and my productivity has increased.
 
-![App block screens](/uploads/7-appblock.png "App block screens")
+![App block screens](/uploads/appblock.webp "App block screens")
 
 - - -
 
