@@ -10,16 +10,13 @@ tags:
   - Productivity
 thumb: /uploads/thumbnail-3-tools.webp
 img: /uploads/thumbnail-3-tools.webp
-intro: >-
-  Making things happen implies being clear and defined what you want and also an
-  action plan to serve as a guide.
-
-
-  I have recently been testing various productivity apps and tools to stay focused. I have problems focusing on tasks because there is a sea of ​​information on the internet and my attention is scattered, which is why I am always looking for new tools, tips, and tricks.
-
-
-  Here are three tools that I recently discovered and found to be quite effective. They have allowed me to achieve the following results.
+intro: I have recently been testing various productivity apps and tools to stay
+  focused. I have problems focusing on tasks because there is a sea of
+  ​​information on the internet and my attention is scattered, which is why I am
+  always looking for new tools, tips, and tricks.
 ---
+Here are three tools that I recently discovered and found to be quite effective. They have allowed me to achieve the following results.
+
 * Better manage the hours I have by investing in activities that I enjoy and are important to me.
 * Visualize clearly and in an organized way the projects, objectives, and tasks that I have proposed to do in a defined time.
 * Complete small tasks (in which I can hardly fail) associated with long-term results.
