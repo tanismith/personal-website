@@ -1,14 +1,15 @@
 ---
-link: 'https://quote-gallery.netlify.app/'
-overview: 'This is a short description of this project and has a fewlines explaining about it.'
 slug: quotes-gallery
-tags:
-    - 'CSS Grid'
-    - Responsive
-thumb: /images/quotes-gallery.png
 title: Quotes-Gallery
+date: 2020-09-16T03:28:53.156Z
+overview: This is a short description of this project and has a fewlines
+  explaining about it.
+tags:
+  - CSS Grid
+  - Responsive
 tools:
-    - 'Adobe XD'
+  - Adobe XD
+thumb: /uploads/quotes-gallery-thumbnail.webp
+link: https://quote-gallery.netlify.app/
 ---
-
-Minor description
+Gallery quote generator
