@@ -29,21 +29,21 @@ To get a better idea I conducted an interview with Manuela, the brand's commerci
 
 I did an audit of the previous Website.
 
-![Previus cart page Mashpi website](/uploads/previousmashphomepage.png "Cart page - It doesn´t work properly")
+![Previus cart page Mashpi website](/uploads/home-previus.webp "Cart page - It doesn´t work properly")
 
-![Previus Mashpi Website image](/uploads/previouspagemashpi.png "Informative pages does not show any image or content")
+![Previus Mashpi Website image](/uploads/page-previus.webp "Informative pages does not show any image or content")
 
 As a result, the website needs a complete redesign to start, I made detailed documentation of what is necessary to achieve the proposed objectives. I compiled visual resources of the brand such as photography of the business and products.
 
 Based on the information brief, the architecture of the website was defined.
 
-![Website map chart](/uploads/mashpi-chocolate-site-map.png "Website map")
+![Website map chart](/uploads/sitemap.webp "Website map")
 
 ### Stage 2: Wireframes
 
 During the wireframing, I drew the necessary screens to ensure a good UX before bringing the design to the user interface.
 
-![wireframes image](/uploads/wireframes_mashpi.jpg "Wireframes")
+![wireframes image](/uploads/wireframes_mashpi.webp "Wireframes")
 
 ### Stage 3: Styles selection
 
