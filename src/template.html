@@ -30,6 +30,12 @@
     <meta property="twitter:image" content="/images/Meta-image.webp" />
 
     %sapper.base%
+    <link rel="preload" as="style" href="global.css">
+    <link rel="preload" as="style" href="responsive.css">
+    <link rel="preconnect" href="fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="use.fontawesome.com" crossorigin>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,300&display=swap" crossorigin>
+    <link rel="preload" src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" crossorigin>
 
     <link rel="stylesheet" href="global.css" />
     <link rel="stylesheet" href="responsive.css" />
@@ -37,11 +43,11 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,300&display=swap"
-      rel="stylesheet"
+      rel="stylesheet" crossorigin
     />
     <script
       defer
-      src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"
+      src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" crossorigin
     ></script>
 
     <!-- Sapper generates a <style> tag containing critical CSS

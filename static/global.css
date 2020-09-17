@@ -175,12 +175,6 @@ h4 {
   margin: 4em auto 0;
 }
 
-.title-page-container span {
-  font-size: var(--title-font-size);
-  font-family: var(--title-font);
-  color: var(--color-title);
-}
-
 .title-page-container h1 {
   font-family: var(--title-font);
   font-size: var(--title-font-size);
