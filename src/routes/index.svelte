@@ -22,8 +22,7 @@
 
 <PageTitle
   mode="home"
-  title="Hi I'm"
-  strongTitle="Tania"
+  title="Hi I'm Tania"
   description=" Here you can find some projects I've been working on" />
 
 <ProjectList projects={projectsSorted} />

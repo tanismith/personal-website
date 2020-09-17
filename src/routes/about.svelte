@@ -2,7 +2,7 @@
   import PageTitle from "../components/PageTitle.svelte";
 </script>
 
-<PageTitle mode="home" title="About" strongTitle="" description="" />
+<PageTitle mode="home" title="About" description="" />
 <div class="about">
   <div class="aboutDescription">
     <p>
