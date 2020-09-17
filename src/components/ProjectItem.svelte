@@ -17,7 +17,7 @@
 
   <div class="projectsFlexDescription">
     <a href={project.link} target="_blank">
-      <h3>{project.title}</h3>
+      <h2>{project.title}</h2>
     </a>
     <p>
       {#if project.tags}

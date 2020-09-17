@@ -83,23 +83,10 @@ footer hr {
   width: 100%;
 }
 
-footer p,
-.lateralBar h3 {
+footer p {
   color: var(--color-title);
   font-family: var(--title-font);
   font-size: 1.2rem;
-}
-
-.lateralBar h3 {
-  color: var(--color-text);
-  margin: 0;
-  border-bottom: 1px solid var(--color-title);
-  width: 12em;
-}
-
-.lateralBar p {
-  color: var(--color-text);
-  font-family: var(--texts-font);
 }
 
 .svg-inline--fa {
@@ -247,16 +234,11 @@ h4 {
   color: var(--color-title);
   font-size: var(--subtitle-font-size);
   font-family: var(--title-font);
-  border-bottom: 2px solid var(--color-title);
-  border-top: 2px solid var(--color-title);
+  margin: 2.5rem 0;
   width: fit-content;
   padding: 12px 0;
   align-self: center;
   font-weight: 200;
-}
-
-.projectsContainer h2 {
-  margin: 2.5rem 0;
 }
 
 .article-description {
@@ -323,8 +305,8 @@ article img,
   width: 100%;
 }
 
-.gallery-element h3,
-.article-description h3 {
+.gallery-element h2,
+.article-description h2 {
   font-family: var(--texts-font);
   font-size: var(--subtitle-font-size);
   color: var(--color-subtitle);

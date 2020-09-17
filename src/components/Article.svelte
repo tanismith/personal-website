@@ -13,9 +13,9 @@
   <div>
     <h1>{article.title}</h1>
     <hr />
-    <h3>
+    <h2>
       {#each article.tags as tag}{tag}{/each}
-    </h3>
+    </h2>
     {#if article.date}
       <small>{new Date(article.date).toLocaleDateString()}</small>
     {/if}
