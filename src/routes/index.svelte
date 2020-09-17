@@ -17,7 +17,7 @@
 </script>
 
 <svelte:head>
-  <title>Tania Smith | UX/UI Developer</title>
+  <title>Tania Smith | UI/UX Developer</title>
 </svelte:head>
 
 <PageTitle
