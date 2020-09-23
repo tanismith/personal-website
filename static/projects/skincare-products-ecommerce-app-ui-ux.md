@@ -93,4 +93,4 @@ This is the result after defining the user, wireframing, testing, and designing 
 
 As a final part of the process, a simulation of product use is shown below, in this way it is ready to be tested, it is important to be open to changes based on user feedback.
 
-![](/uploads/1gif-compress.gif)
+![](/uploads/gif1.gif)
