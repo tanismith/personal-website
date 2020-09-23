@@ -28,7 +28,7 @@ In order to design the best experience is demanded to focus on the user and the 
 
 This app focuses on female users between 18 and 35 years of age who are looking for vegan products to maintain both facial and body skincare.
 
-Their commitment and love for animals motivates them to use products not tested on animals and free of aggressive chemicals.
+Their commitment and love for animals motivate them to use products not tested on animals and free of aggressive chemicals.
 
 They prefer to buy online because of the ease of finding the products they are looking for and the convenience of receiving their products at home.
 
