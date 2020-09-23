@@ -67,6 +67,18 @@ The app features have been categorized into two groups. For the first app's vers
 
 ## Design System
 
-The brand colors are smooth and elegant. The typography selected is clear and simple. These are de style guides to standard future designs.
+The brand colors are smooth and elegant. The typography selected is clear and simple. These are the style guides to standard future designs.
 
-![](/uploads/style-skincare-app-image-ui.webp)
+![styles-ui-skincare-app-image](/uploads/style-skincare-app-image-ui.webp "styles-ui-skincare-app-image")
+
+## Wireframes
+
+Before making the mockups, wireframes have been designed to define the main screens to test and adjust.
+
+![wireframes-image-skincare-app](/uploads/wireframes-skincare-app-image.webp "wireframes-image-skincare-app")
+
+## UI/UX Design
+
+This is the result after defining the user, wireframing, testing, and designing the UI. It has the main features and steps in the flow of an online experience.
+
+![ui1-skincare-app-image](/uploads/ui1-mockup-skincare-app.webp "ui1-skincare-app-image")
