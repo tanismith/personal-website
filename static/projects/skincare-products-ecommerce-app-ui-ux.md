@@ -81,4 +81,14 @@ Before making the mockups, wireframes have been designed to define the main scre
 
 This is the result after defining the user, wireframing, testing, and designing the UI. It has the main features and steps in the flow of an online experience.
 
-![ui1-skincare-app-image](/uploads/ui1-mockup-skincare-app.webp "ui1-skincare-app-image")
+![ui1-skincare-app-image](/uploads/ui1-skincare-app-image.webp "ui1-skincare-app-image")
+
+![ui2-skincare-app-image](/uploads/ui2-skincare-app-image.webp "ui2-skincare-app-image")
+
+![ui3-skincare-app-image](/uploads/u3-skincare-app-image.webp "ui3-skincare-app-image")
+
+![ui4-skincare-app-image](/uploads/u4-skincare-app-image.webp "ui4-skincare-app-image")
+
+## Prototype
+
+As a final part of the process, a simulation of product use is shown below, in this way it is ready to be tested, it is important to be open to changes based on user feedback.
