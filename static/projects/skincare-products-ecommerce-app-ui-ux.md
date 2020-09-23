@@ -11,6 +11,6 @@ tags:
   - Prototype
 tools:
   - Adobe XD
-thumb: /uploads/thumbnail-1-.webp
+thumb: /uploads/presentation-1-.webp
 ---
-![Skincare Products eCommerce App image](/uploads/presentation-1-.webp "Skincare Products eCommerce App")
+![Skincare Products eCommerce App image]( "Skincare Products eCommerce App")
