@@ -13,4 +13,63 @@ tools:
   - Adobe XD
 thumb: /uploads/presentation-1-.webp
 ---
-![Project overview image](/uploads/project-overview.webp "Project overview image")
+
+
+## Challenge requirements
+
+Define user\
+Wireframes
+UI /UX Design
+Prototype
+
+## Defining the user
+
+In order to design the best experience is demanded to focus on the user and the usual expectations of shopping online.
+
+### Short user description
+
+This app focuses on female users between 18 and 35 years of age who are looking for vegan products to maintain both facial and body skincare.
+
+Their commitment and love for animals motivates them to use products not tested on animals and free of aggressive chemicals.
+
+They prefer to buy online because of the ease of finding the products they are looking for and the convenience of receiving their products at home.
+
+### User's conventions on eCommerce
+
+Simple and fast experience when shopping online
+Easy to browse and select products
+Look for rating and reviews
+Enough information for each product
+Free shipping
+Simple payment method
+
+## App features
+
+The app features have been categorized into two groups. For the first app's version, it's important to know what are the main "must be" features.
+
+### Basic
+
+User-friendly product filtering and sorting
+Product pages with detailed descriptions
+Shopping bag
+Shipping options
+Order summary
+Secure and easy in-app methods payment
+Product scores and reviews
+Easy customer service access
+
+### Additional
+
+Product gallery
+Related products
+Wishlist
+Flash sales and discounts
+Membership options
+Item availability reminder
+Presenting products with tiny videos
+
+## Design System
+
+The brand colors are smooth and elegant. The typography selected is clear and simple. These are de style guides to standard future designs.
+
+![](/uploads/style-skincare-app-image.webp)
