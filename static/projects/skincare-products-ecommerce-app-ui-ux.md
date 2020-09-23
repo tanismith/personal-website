@@ -94,3 +94,7 @@ This is the result after defining the user, wireframing, testing, and designing 
 As a final part of the process, a simulation of product use is shown below, in this way it is ready to be tested, it is important to be open to changes based on user feedback.
 
 ![Prototype-1](/uploads/gif1-skincare-ui.gif "Prototype-1")
+
+![Prototype-2](/uploads/gif2-skincare-ui.gif "Prototype-2")
+
+Thanks for watching!
