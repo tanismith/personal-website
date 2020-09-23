@@ -8,9 +8,9 @@ overview: This project arises from a challenge to create a design for an
   vegan, paraben-free lines of skincare product.
 tags:
   - UI App
-  - Prototype
+  - Prototyping
 tools:
   - Adobe XD
 thumb: /uploads/presentation-1-.webp
 ---
-![Skincare Products eCommerce App image]( "Skincare Products eCommerce App")
+![Project overview image](/uploads/project-overview.webp "Project overview image")
