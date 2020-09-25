@@ -18,9 +18,9 @@
       to implementing interactive experiences on the web, bringing ideas to life
       with meticulous care and attention to detail. <br /><br /> A little more about
       me <br />My personal experiences have taught me a few things about myself:
-      I constantly educate myself, readjust and train to be a better person. I
-      work daily to form positive habits. I'm always looking for new and better
-      ways to solve problems.
+      I enjoy the process of constantly educate myself, readjust and train to be
+      a better person. I work daily to form positive habits. I'm always looking
+      for new and better ways to solve problems.
     </p>
     <!-- <img src="/images/about.jpg" alt="tania-smith-senmache" /> -->
   </div>
