@@ -46,7 +46,7 @@ Based on the information brief, the architecture of the website was defined.
 
 ![Website map chart](/uploads/sitemap.webp "Website map")
 
-### Stage 2: Wireframes
+### Stage 3: Wireframes 
 
 During the wireframing, I drew the necessary screens to ensure a good UX before bringing the design to the user interface. 
 
@@ -54,20 +54,17 @@ Through feedbacks, I got a reality check on the redesign. I was asked to include
 
 ![wireframes image](/uploads/wireframes_mashpi.webp "Wireframes")
 
-### \
-Stage 3: Styles selection
+### Stage 4: High fidelity UI
 
 There wasn't a brand's style guide. The brand needed the styles to remain in harmony with its logo and product packaging. It was agreed to use previously used colors and fonts.
 
 ![fonts image](/uploads/mashpi-ui-style.webp "fonts")
 
-### Stage 4: High fidelity UI
-
 The content of the pages should guide users and help them interact with the product. So after receiving all the information about the brand (huge texts, pictures, videos, etc). I organized it and take the useful content to make sure should guide users and help them interact with the product. \
 \
 The copies were written concisely to get to the point. And **I made sure that shows the same style, tone, voice, and terminology that fits in with the brand**, this builds trust with the user.\
 \
-Home and products page: easy to access
+Home page: easy to access and navigate
 
 ![Home and products page image](/uploads/mashpi-ui-home.webp "Home and products page")
 
@@ -75,14 +72,16 @@ Product detail page and shopping cart
 
 ![ Product detail page and shopping cart image](/uploads/mashpi-ui-product.webp " Product detail page and shopping cart")
 
-Content pages: 
+Content pages: simple, clear and concise
 
 ![Information pages UI image](/uploads/mashpi-ui-page.webp "Other pages UI - Awards and guarantees page")
 
-![Ingredients section and website footer image](/uploads/mashpi-ui-ingredients.webp " Ingredients section and website footer")
-
 ### \
-\
-Stage 6: Final product
+Stage 5: Implementation
 
-The website was developed in WordPress, a Spanish version for Ecuador, and an English version for the United States. Visit: [chocomashpi.com](http://chocomashpi.com)
+Implementing the UX design along with the re-design UI with complete functionality and user experience was an iterative process.
+
+I validated the product in terms of user flow and experience and identify areas where improvements were needed.
+
+The website was built in WordPress and Woocommerce, a Spanish version for Ecuador, and an English version for the United States. The design flexible and easy to change \
+Visit: [chocomashpi.com](http://chocomashpi.com)
