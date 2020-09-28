@@ -1,3 +1,21 @@
+<style>
+  footer {
+    position: relative;
+    margin-bottom: 2em;
+  }
+  .top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    background: rgb(0, 170, 161, 0.8);
+    padding: 5px 10px;
+    color: white;
+    font-size: 25px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+</style>
+
 <footer>
   <section>
     <p>Connect with me at</p>
@@ -10,4 +28,5 @@
     <a href="https://codepen.io/t4n1a/pens/showcase">
       <i class="fab fa-codepen" /></a>
   </section>
+  <section class="top" id="backTop" title="Go to top on">⭡</section>
 </footer>

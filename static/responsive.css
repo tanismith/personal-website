@@ -150,4 +150,11 @@
     text-align: left;
     opacity: 0.5;
   }
+  .items-box {
+    width: 100%;
+    flex-direction: column;
+  }
+  .item {
+    width: 80%;
+  }
 }
