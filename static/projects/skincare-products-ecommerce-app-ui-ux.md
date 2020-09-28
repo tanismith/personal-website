@@ -1,13 +1,13 @@
 ---
-slug: skincare-products-ecommerce-app-ui-ux
-title: Skincare products eCommerce app UI/UX
+slug: skincare-products-ecommerce-app
+title: Skincare products eCommerce app
 date: 2020-06-20T17:29:22.212Z
 overview: This project arises from a challenge to create a design for an
   eCommerce app that makes the shopping experience simple and enjoyable.  The
   products shown are from an Ecuadorian brand specialized in cruelty-free,
   vegan, paraben-free lines of skincare product.
 tags:
-  - UI App design
+  - UX/UI App design
   - Prototyping
 tools:
   - Adobe XD
