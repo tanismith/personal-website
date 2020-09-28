@@ -16,11 +16,18 @@
     bottom: 2em;
     right: 1em;
     background: rgb(0, 170, 161, 0.8);
-    padding: 5px 10px;
+    padding: 3px;
     color: white;
-    font-size: 25px;
     border-radius: 8px;
     cursor: pointer;
+    line-height: 0rem;
+  }
+  .svg-inline--fa {
+    font-size: 1.1em;
+    padding: 5px;
+  }
+  .svg-inline--fa {
+    vertical-align: -0.5em;
   }
 </style>
 
@@ -40,8 +47,11 @@
     <hr />
   </section>
   <section>
-    <a href="https://www.linkedin.com/in/tania-smith-senmache">
-      <i class="fab fa-linkedin-in" /></a>
+    <!-- <a href="https://www.linkedin.com/in/tania-smith-senmache">
+      <i class="fab fa-linkedin-in" /></a> -->
+
+    <a href="https://dribbble.com/TaniSmith">
+      <i class="fab fa-dribbble" /></a>
     <a href="https://github.com/tanismith"> <i class="fab fa-github" /></a>
     <a href="https://codepen.io/t4n1a/pens/showcase">
       <i class="fab fa-codepen" /></a>
