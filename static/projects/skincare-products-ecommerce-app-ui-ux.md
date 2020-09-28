@@ -7,17 +7,19 @@ overview: This project arises from a challenge to create a design for an
   products shown are from an Ecuadorian brand specialized in cruelty-free,
   vegan, paraben-free lines of skincare product.
 tags:
-  - UI App
+  - UI App design
   - Prototyping
 tools:
   - Adobe XD
 thumb: /uploads/presentation-1-.webp
 ---
-## Challenge requirements
+## Challenge 
 
-* Define user
+The challenge was to create a design for an eCommerce app that makes the shopping experience simple and enjoyable.  The products shown are from an Ecuadorian brand specialized in cruelty-free, vegan, paraben-free lines of skincare products. 
+
+* Define the user
 * Wireframes
-* UI /UX Design
+* UX /UI Design
 * Prototype
 
 ## Defining the user
@@ -26,11 +28,16 @@ In order to design the best experience is demanded to focus on the user and the 
 
 ### Short user description
 
+To make this possible the brand provided collected information from its users. Besides I applied an observational research method to determine behaviors, quotes, responses of the customers by seeing what actually happens in real-time.
+
+I could determine which type of user will be the app designed for.\
 This app focuses on female users who are looking for vegan products to maintain both facial and body skincare.
 
 Their commitment and love for ecology motivate them to use products not tested on animals and free of aggressive chemicals.
 
 They prefer to buy online because of the ease of finding the products they are looking for and the convenience of receiving their products at home.
+
+## Defining App features
 
 ### User's conventions on eCommerce
 
@@ -40,8 +47,6 @@ They prefer to buy online because of the ease of finding the products they are l
 * Enough information for each product
 * Free shipping
 * Simple payment method
-
-## App features
 
 The app features have been categorized into two groups. For the first app's version, it's important to know what are the main "must be" features.
 
@@ -97,4 +102,6 @@ As a final part of the process, a simulation of product use is shown below, in t
 
 ![Prototype-2](/uploads/gif2-skincare-ui.gif "Prototype-2")
 
+The prototype was presented to the brand to be implemented. Understanding the benefits that a good UX/UI brings to enhance the brand, create trust, and increase sales they're considering the proposal to invest next year in this digital product.\
+\
 Thanks for watching!
