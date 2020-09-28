@@ -1,3 +1,13 @@
+<script>
+  import { tick } from "svelte";
+
+  let showBackToTop = false;
+
+  async function handleBackToTop() {
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+  }
+</script>
+
 <style>
   footer {
     position: relative;
@@ -13,9 +23,18 @@
     font-size: 25px;
     border-radius: 8px;
     cursor: pointer;
-    display: none;
   }
 </style>
+
+<svelte:window
+  on:scroll={() => {
+    const top = window.pageYOffset || document.documentElement.scrollTop;
+    if (top > 200) {
+      showBackToTop = true;
+    } else {
+      showBackToTop = false;
+    }
+  }} />
 
 <footer>
   <section>
@@ -29,5 +48,13 @@
     <a href="https://codepen.io/t4n1a/pens/showcase">
       <i class="fab fa-codepen" /></a>
   </section>
-  <section class="top" id="backTop" title="Go to top on">⭡</section>
+  {#if showBackToTop}
+    <section
+      on:click={handleBackToTop}
+      class="top"
+      id="backTop"
+      title="Go to top on">
+      ⭡
+    </section>
+  {/if}
 </footer>
