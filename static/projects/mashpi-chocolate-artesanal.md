@@ -76,8 +76,7 @@ Content pages: simple, clear and concise
 
 ![Information pages UI image](/uploads/mashpi-ui-page.webp "Other pages UI - Awards and guarantees page")
 
-### \
-Stage 5: Implementation
+### Stage 5: Implementation
 
 Implementing the UX design along with the re-design UI with complete functionality and user experience was an iterative process.
 
