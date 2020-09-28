@@ -6,13 +6,14 @@
   .top {
     position: fixed;
     bottom: 2em;
-    right: 2em;
+    right: 1em;
     background: rgb(0, 170, 161, 0.8);
     padding: 5px 10px;
     color: white;
     font-size: 25px;
     border-radius: 8px;
     cursor: pointer;
+    display: none;
   }
 </style>
 
