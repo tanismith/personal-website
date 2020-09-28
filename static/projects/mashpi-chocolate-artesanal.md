@@ -30,6 +30,8 @@ Every website should have a goal, with every design decision aligned to it, so w
 * Online sale of products for Ecuador and the United States through the total redesign of its E-commerce website: product pages, shopping cart, checkout, shipping, and payment method.
 * Channel for contact with prospects for distributors and visitors at the farm where they make chocolate.
 
+### Stage 2: Audit and IA
+
  I did an audit of the previous Website to prioritize design decisions.
 
 ![Previus cart page Mashpi website](/uploads/home-previus.webp "Cart page - It doesn´t work properly")
@@ -48,32 +50,39 @@ Based on the information brief, the architecture of the website was defined.
 
 During the wireframing, I drew the necessary screens to ensure a good UX before bringing the design to the user interface. 
 
+Through feedbacks, I got a reality check on the redesign. I was asked to include a new "ingredients" section within the "Our chocolate" page. And I made adjustments by iterating the process.
+
 ![wireframes image](/uploads/wireframes_mashpi.webp "Wireframes")
 
-### Stage 3: Styles selection
+### \
+Stage 3: Styles selection
 
-There wasn´t a style guide or manual. The brand needed the styles to remain in harmony with its logo and product packaging. It was agreed to use previously used colors and fonts.
+There wasn't a brand's style guide. The brand needed the styles to remain in harmony with its logo and product packaging. It was agreed to use previously used colors and fonts.
 
 ![fonts image](/uploads/mashpi-ui-style.webp "fonts")
 
 ### Stage 4: High fidelity UI
 
+The content of the pages should guide users and help them interact with the product. So after receiving all the information about the brand (huge texts, pictures, videos, etc). I organized it and take the useful content to make sure should guide users and help them interact with the product. \
+\
+The copies were written concisely to get to the point. And **I made sure that shows the same style, tone, voice, and terminology that fits in with the brand**, this builds trust with the user.\
+\
+Home and products page: easy to access
+
 ![Home and products page image](/uploads/mashpi-ui-home.webp "Home and products page")
 
-Home and products page
+Product detail page and shopping cart
 
 ![ Product detail page and shopping cart image](/uploads/mashpi-ui-product.webp " Product detail page and shopping cart")
 
- Product detail page and shopping cart
+Content pages: 
 
 ![Information pages UI image](/uploads/mashpi-ui-page.webp "Other pages UI - Awards and guarantees page")
 
-### Stage 5: Evaluation and adjustments
-
-The client asked to include new photos and a new "ingredients" section within the "Our chocolate" page. More color was added to backgrounds with brand illustrations.
-
 ![Ingredients section and website footer image](/uploads/mashpi-ui-ingredients.webp " Ingredients section and website footer")
 
-### Stage 6: Final product
+### \
+\
+Stage 6: Final product
 
 The website was developed in WordPress, a Spanish version for Ecuador, and an English version for the United States. Visit: [chocomashpi.com](http://chocomashpi.com)
