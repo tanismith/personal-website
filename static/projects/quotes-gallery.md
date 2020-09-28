@@ -1,8 +1,8 @@
 ---
-slug: quotes-gallery-template
-title: Quotes-Gallery Template
+slug: quotes-gallery
+title: Quotes-Gallery
 date: 2020-09-15T03:28:53.156Z
-overview: "UI design template that shows a beautiful gallery of quotes to find
+overview: "UI design that shows a beautiful gallery of random quotes to find
   inspiration. "
 tags:
   - CSS Grid
@@ -11,6 +11,7 @@ tools:
   - Adobe XD
   - HTML5
   - CSS3
+  - Vue.js
 thumb: /uploads/quotes-gallery-thumbnail.webp
 link: https://quote-gallery.netlify.app/
 ---
