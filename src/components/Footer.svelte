@@ -1,6 +1,4 @@
 <script>
-  import { tick } from "svelte";
-
   let showBackToTop = false;
 
   async function handleBackToTop() {
@@ -54,7 +52,7 @@
       class="top"
       id="backTop"
       title="Go to top on">
-      ⭡
+      <i class="fas fa-arrow-up" />
     </section>
   {/if}
 </footer>
