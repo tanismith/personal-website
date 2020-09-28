@@ -156,6 +156,9 @@
     width: 80%;
   }
   .item {
-    width: 80%;
+    width: 100%;
+  }
+  .item h2 {
+    margin: 1em 0;
   }
 }
