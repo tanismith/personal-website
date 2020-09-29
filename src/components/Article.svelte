@@ -1,15 +1,20 @@
 <script>
   export let article;
-  export let projects;
+  export let posts;
   import BackNextControls from "../components/BackNextControls.svelte";
 
-  $: next =
-    projects.find((p) => p.order === article.order + 1) ||
-    projects.find((p) => p.order === 1);
+  $: currentPostIndex = posts.findIndex((p) => article.slug === p.slug);
+  $: type = article.order ? "projects" : "blog";
 
-  $: previous =
-    projects.find((p) => p.order === article.order - 1) ||
-    projects.find((p) => p.order === projects.length);
+  $: next = article.order
+    ? posts.find((p) => p.order === article.order + 1) ||
+      posts.find((p) => p.order === 1)
+    : posts[currentPostIndex + 1] || posts[0];
+
+  $: previous = article.order
+    ? posts.find((p) => p.order === article.order - 1) ||
+      posts.find((p) => p.order === posts.length)
+    : posts[currentPostIndex - 1] || posts[posts.length - 1];
 </script>
 
 <style>
@@ -41,4 +46,4 @@
     {@html article.html}
   </article>
 </section>
-<BackNextControls {next} {previous} />
+<BackNextControls {type} {next} {previous} />

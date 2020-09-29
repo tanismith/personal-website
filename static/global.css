@@ -322,24 +322,13 @@ article img,
 }
 
 .gallery-element p,
-small,
-.lateralBar input {
+small {
   font-family: var(--texts-font);
   font-size: 15px;
   color: var(--color-text);
   text-align: left !important;
   line-height: normal;
   font-weight: 100;
-}
-
-.lateralBar input {
-  width: 85%;
-  height: 50px;
-  border-radius: 10px;
-  border: none;
-  padding: 0 20px;
-  margin: 1rem 0;
-  outline: none;
 }
 
 .article-intro {

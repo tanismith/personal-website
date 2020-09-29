@@ -24,7 +24,7 @@
   mode="home" />
 
 <section class="gallery-blogs-container">
-  {#each posts as post}
+  {#each posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()) as post}
     <div class="post-container">
       <a rel="prefetch" href="blog/{post.slug}">
         <img src={post.thumb} alt="Vormet website" />

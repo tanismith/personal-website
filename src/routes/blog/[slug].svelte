@@ -3,10 +3,12 @@
     // the `slug` parameter is available because
     // this file is called [slug].svelte
     const res = await this.fetch(`blog/${params.slug}.json`);
+    const postsResult = await this.fetch("blog.json");
+    const posts = await postsResult.json();
     const data = await res.json();
 
     if (res.status === 200) {
-      return { post: data };
+      return { post: data, posts };
     } else {
       this.error(res.status, data.message);
     }
@@ -15,8 +17,15 @@
 
 <script>
   export let post;
+  export let posts;
   import Article from "../../components/Article.svelte";
 </script>
+
+<style>
+  #disqus_thread {
+    margin-top: 3em;
+  }
+</style>
 
 <svelte:head>
   <title>{post.title}</title>
@@ -41,16 +50,9 @@
     <a href="/blog"><i class="fas fa-angle-left" />Back</a>
   </div>
 </section>
-<Article article={post} />
+<Article
+  article={post}
+  posts={posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())} />
 <div class="article-intro">
   <div id="disqus_thread" />
-  <!-- <hr class="divider" /> -->
-  <!-- <section class="nav-before-after">
-    <div class="before">
-      <a href="/blog"><i class="fas fa-angle-left" />Previus</a>
-    </div>
-    <div class="after">
-      <a href="/blog">Next<i class="fas fa-angle-right" /></a>
-    </div>
-  </section> -->
 </div>

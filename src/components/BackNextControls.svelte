@@ -1,29 +1,18 @@
 <script>
   export let previous;
   export let next;
+  export let type = "projects";
 </script>
 
 <section class="article-intro">
   <hr class="divider" />
   <section class="nav-before-after">
     <div class="before">
-      <a href="/projects/{previous.slug} "><i
+      <a href="/{type}/{previous.slug} "><i
           class="fas fa-angle-left" />Previus</a>
     </div>
     <div class="after">
-      <a href="/projects/{next.slug}">Next<i class="fas fa-angle-right" /></a>
+      <a href="/{type}/{next.slug}">Next<i class="fas fa-angle-right" /></a>
     </div>
   </section>
 </section>
-
-<!-- <section class="article-intro">
-    <hr class="divider" />
-    <section class="nav-before-after">
-      <div class="before">
-        <a href="/projects/"><i class="fas fa-angle-left" />Previus project</a>
-      </div>
-      <div class="after">
-        <a href="/projects/">Next project<i class="fas fa-angle-right" /></a>
-      </div>
-    </section>
-</section> -->

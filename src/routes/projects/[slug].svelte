@@ -25,4 +25,4 @@
   <title>{post.title}</title>
 </svelte:head>
 
-<Article article={post} {projects} />
+<Article article={post} posts={projects} />

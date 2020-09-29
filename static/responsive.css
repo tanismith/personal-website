@@ -124,6 +124,9 @@
   .projectsFlex .gallery-element {
     margin: 2em 0;
   }
+  /* .projectsFlex:nth-child(odd) .gallery-element {
+    flex-wrap: wrap;
+  } */
   .gallery-element .image {
     width: 90%;
     height: auto;
