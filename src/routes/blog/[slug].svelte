@@ -44,4 +44,13 @@
 <Article article={post} />
 <div class="article-intro">
   <div id="disqus_thread" />
+  <!-- <hr class="divider" /> -->
+  <!-- <section class="nav-before-after">
+    <div class="before">
+      <a href="/blog"><i class="fas fa-angle-left" />Previus</a>
+    </div>
+    <div class="after">
+      <a href="/blog">Next<i class="fas fa-angle-right" /></a>
+    </div>
+  </section> -->
 </div>

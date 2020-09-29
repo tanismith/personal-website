@@ -149,6 +149,10 @@ button a {
   margin: 30px auto;
 }
 
+.article-intro .divider {
+  width: 100%;
+}
+
 h3 {
   font-family: var(--title-font);
   color: var(--color-title);
@@ -166,8 +170,11 @@ h4 {
 }
 
 .nav-before-after {
-  width: 75%;
+  width: 81%;
   margin: 0 auto;
+}
+.article-intro .nav-before-after {
+  width: 100%;
 }
 
 .about {
@@ -252,6 +259,7 @@ article img,
 .article-description img {
   width: 50%;
   height: 350px;
+  object-fit: cover;
   margin-top: 1em;
 }
 

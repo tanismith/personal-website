@@ -28,6 +28,7 @@ collections:
       fields:
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Order', name: 'order', widget: 'number' }
           - {
                 label: 'Date',
                 name: 'date',

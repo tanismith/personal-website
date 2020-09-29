@@ -1,5 +1,9 @@
 <script>
   export let article;
+  export let projects;
+  import BackNextControls from "../components/BackNextControls.svelte";
+  $: console.log(article);
+  $: console.log(projects);
 </script>
 
 <style>
@@ -30,4 +34,5 @@
   <article>
     {@html article.html}
   </article>
+  <BackNextControls />
 </section>
