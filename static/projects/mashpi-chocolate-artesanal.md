@@ -46,7 +46,7 @@ Based on the information brief, the architecture of the website was defined.
 
 ![Website map chart](/uploads/sitemap.webp "Website map")
 
-### Stage 3: Wireframes 
+### Stage 3: Wireframes
 
 During the wireframing, I drew the necessary screens to ensure a good UX before bringing the design to the user interface. 
 
@@ -88,4 +88,4 @@ The website was built in WordPress and Woocommerce, a Spanish version for Ecuado
 
 Create a UX/UI new design website for Mashpi Chocolate, enhanced brand image, and have given a more clear value proposition that brought a higher affinity of users to trust and buy the products.\
 \
-Visit the website: <https://tienda.chocomashpi.com/>
+Click [here](https://tienda.chocomashpi.com/) to visit the website.
