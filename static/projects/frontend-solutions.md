@@ -2,8 +2,8 @@
 slug: frontend-solutions
 title: Frontend solutions
 date: 2020-07-27T01:06:04.861Z
-overview: "A collection of several HTML, CSS, and JavaScript solutions in
-  professional designs to challenges proposed. "
+overview: A collection of several HTML, CSS, and JavaScript solutions in
+  professional designs to challenges proposed from Frontend Mentor platform.
 tags:
   - Web design challenges
 tools:
@@ -13,8 +13,6 @@ tools:
 thumb: /uploads/frontend-thumnail.webp
 img: /uploads/frontend-thumnail.webp
 ---
-Here you can find some solutions for frontend challenges proposed from Frontend Mentor platform.
-
 ### Article preview component
 
 This component shows the social media share links when they click the share icon. [Click to see](https://tanismith.github.io/article-preview-component/)
