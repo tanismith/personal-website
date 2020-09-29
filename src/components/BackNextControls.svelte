@@ -8,11 +8,10 @@
   <section class="nav-before-after">
     <div class="before">
       <a href="/projects/{previous.slug} "><i
-          class="fas fa-angle-left" />Previous project</a>
+          class="fas fa-angle-left" />Previus</a>
     </div>
     <div class="after">
-      <a href="/projects/{next.slug}">
-        Next project<i class="fas fa-angle-right" /></a>
+      <a href="/projects/{next.slug}">Next<i class="fas fa-angle-right" /></a>
     </div>
   </section>
 </section>

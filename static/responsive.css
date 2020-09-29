@@ -15,6 +15,10 @@
   .nav-before-after {
     width: 85%;
   }
+  .nav-before-after .before a,
+  .nav-before-after .after a {
+    line-height: 1.5;
+  }
 
   .about h1 {
     font-size: 2.8em;

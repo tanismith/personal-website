@@ -40,5 +40,5 @@
   <article>
     {@html article.html}
   </article>
-  <BackNextControls {next} {previous} />
 </section>
+<BackNextControls {next} {previous} />
