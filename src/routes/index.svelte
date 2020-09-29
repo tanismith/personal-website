@@ -11,12 +11,7 @@
   import ProjectList from "../components/ProjectList.svelte";
   export let projects = [];
 
-  const firstProject = "mashpi-chocolate-artesanal";
-  const secondProject = "skincare-products-ecommerce-app";
-
-  $: projectsSorted = projects.sort((a) =>
-    a.slug === firstProject ? -1 : a.slug === secondProject ? 0 : 1
-  );
+  $: projectsSorted = projects.sort((a, b) => a.order - b.order);
 </script>
 
 <svelte:head>

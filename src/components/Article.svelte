@@ -2,8 +2,14 @@
   export let article;
   export let projects;
   import BackNextControls from "../components/BackNextControls.svelte";
-  $: console.log(article);
-  $: console.log(projects);
+
+  $: next =
+    projects.find((p) => p.order === article.order + 1) ||
+    projects.find((p) => p.order === 1);
+
+  $: previous =
+    projects.find((p) => p.order === article.order - 1) ||
+    projects.find((p) => p.order === projects.length);
 </script>
 
 <style>
@@ -34,5 +40,5 @@
   <article>
     {@html article.html}
   </article>
-  <BackNextControls />
+  <BackNextControls {next} {previous} />
 </section>
