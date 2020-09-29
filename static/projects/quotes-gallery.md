@@ -16,4 +16,4 @@ tools:
 thumb: /uploads/quotes-gallery-thumbnail.webp
 link: https://quote-gallery.netlify.app/
 ---
-Gallery quotes
+Discover a new random quote while sliding through the gallery.
