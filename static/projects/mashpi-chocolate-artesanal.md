@@ -14,6 +14,7 @@ tools:
   - WooCommerce
 thumb: /uploads/2-1-thumbnail-1-.webp
 img: /uploads/2-1-thumbnail-1-.webp
+link: https://tienda.chocomashpi.com/
 ---
 ## **Challenge**
 
@@ -21,7 +22,7 @@ Creating UX/UI for both users and the company. Mashpi Chocolate Artesanal is a r
 \
 The growth of the business demanded the need to update its E-commerce website to position itself and sell its products.
 
-### Stage 1: Know the brand
+## Stage 1: Know the brand
 
 To get a better idea I conducted an interview with Manuela, the brand's commercial representative. By understanding the brand's strengths, who is its audience, competitors. \
 \
@@ -31,7 +32,7 @@ Every website should have a goal, with every design decision aligned to it, so w
 * Online sale of products for Ecuador and the United States through the total redesign of its E-commerce website: product pages, shopping cart, checkout, shipping, and payment method.
 * Channel for contact with prospects for distributors and visitors at the farm where they make chocolate.
 
-### Stage 2: Audit and IA
+## Stage 2: Audit and IA
 
  I did an audit of the previous Website to prioritize design decisions.
 
@@ -47,7 +48,7 @@ Based on the information brief, the architecture of the website was defined.
 
 ![Website map chart](/uploads/sitemap.webp "Website map")
 
-### Stage 3: Wireframes
+## Stage 3: Wireframes
 
 During the wireframing, I drew the necessary screens to ensure a good UX before bringing the design to the user interface. 
 
@@ -55,7 +56,7 @@ Through feedbacks, I got a reality check on the redesign. I was asked to include
 
 ![wireframes image](/uploads/wireframes_mashpi.webp "Wireframes")
 
-### Stage 4: High fidelity UI
+## Stage 4: High fidelity UI
 
 There wasn't a brand's style guide. The brand needed the styles to remain in harmony with its logo and product packaging. It was agreed to use previously used colors and fonts.
 
@@ -77,7 +78,7 @@ Content pages: simple, clear and concise
 
 ![Information pages UI image](/uploads/mashpi-ui-page.webp "Other pages UI - Awards and guarantees page")
 
-### Stage 5: Implementation
+## Stage 5: Implementation
 
 Implementing the UX design along with the re-design UI with complete functionality and user experience was an iterative process.
 
@@ -85,7 +86,7 @@ I validated the product in terms of user flow and experience and identify areas 
 
 The website was built in WordPress and Woocommerce, a Spanish version for Ecuador, and an English version for the United States. The design is flexible and easy to change. The brand has control over the products they sell, they can add, edit, or delete.
 
-### Stage 6: Results
+## Stage 6: Results
 
 Create a UX/UI new design website for Mashpi Chocolate, enhanced brand image, and have given a more clear value proposition that brought a higher affinity of users to trust and buy the products.\
 \
