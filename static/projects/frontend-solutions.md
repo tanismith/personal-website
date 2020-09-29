@@ -1,6 +1,7 @@
 ---
 slug: frontend-solutions
 title: Frontend solutions
+order: 4
 date: 2020-07-27T01:06:04.861Z
 overview: A collection of several HTML, CSS, and JavaScript solutions in
   professional designs to challenges proposed from Frontend Mentor platform.
