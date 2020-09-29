@@ -251,7 +251,7 @@ article img,
 }
 .article-description img {
   width: 50%;
-  height: auto;
+  height: 350px;
   margin-top: 1em;
 }
 
@@ -400,7 +400,7 @@ small,
 }
 
 .article-description div {
-  width: 35%;
+  width: 45%;
   margin-right: 3em;
 }
 
