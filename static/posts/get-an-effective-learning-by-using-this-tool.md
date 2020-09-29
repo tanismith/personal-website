@@ -3,17 +3,17 @@ slug: get-an-effective-learning-by-using-this-tool
 title: Get an effective learning by using this tool
 date: 2020-06-08T01:53:30.253Z
 overview: It's proven that if you review your notes 7 days after and then a
-  month after is possible to retain more information so your study system is
-  more effective. Here you have an amazing tool to remember what you've learned
-  in an organized and beautiful way for anything you want to learn and remember.
+  month after is possible to retain more information. Here you have an amazing
+  tool to remember what you've learned in an organized and beautiful way.
 tags:
   - Learning tools
 thumb: /uploads/thumbnail-notes-blog.webp
-intro: Cornell Notes it's a note-taking and study system to give people a better
-  way to clearly summarize, organize, and intake knowledge. It's proven as an
-  incredibly effective learning tool developed at Cornell University by
-  Professor Walter Pauk in 1940.
+intro: It's proven that if you review your notes 7 days after and then a month
+  after is possible to retain more information. Here you have an amazing tool to
+  remember what you've learned in an organized and beautiful way.
 ---
+Cornell Notes it's a note-taking and study system to give people a better way to clearly summarize, organize, and intake knowledge. It's proven as an incredibly effective learning tool developed at Cornell University by Professor Walter Pauk in 1940.
+
 ## The structure
 
 To start divide the page into 4 parts: a header, a footer (both are of the page width), and two columns between the header and footer, one narrower than the other.
