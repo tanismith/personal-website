@@ -14,7 +14,7 @@ tools:
   - WooCommerce
 thumb: /uploads/2-1-thumbnail-1-.webp
 img: /uploads/2-1-thumbnail-1-.webp
-link: https://tienda.chocomashpi.com/
+link: ""
 ---
 ## **Challenge**
 
