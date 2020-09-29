@@ -1,5 +1,5 @@
 ---
-slug: get-an effective-learning-by-using-this-tool
+slug: get-an-effective-learning-by-using-this-tool
 title: Get an effective learning by using this tool
 date: 2020-06-08T01:53:30.253Z
 overview: It's proven that if you review your notes 7 days after and then a
