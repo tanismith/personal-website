@@ -4,6 +4,8 @@ title: Frontend solutions
 date: 2020-07-27T01:06:04.861Z
 overview: "A collection of several HTML, CSS, and JavaScript solutions in
   professional designs to challenges proposed. "
+tags:
+  - Web design challenges
 tools:
   - HTML
   - CSS
