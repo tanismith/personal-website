@@ -16,7 +16,7 @@
   {/if}
 
   <div class="projectsFlexDescription">
-    <a href={project.link} target="_blank">
+    <a href={project.link || `projects/${project.slug}`} target="_self">
       <h2>{project.title}</h2>
     </a>
     <p>
