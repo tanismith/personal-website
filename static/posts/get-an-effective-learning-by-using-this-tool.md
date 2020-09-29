@@ -18,7 +18,7 @@ intro: Cornell Notes it's a note-taking and study system to give people a better
 
 To start divide the page into 4 parts: a header, a footer (both are of the page width), and two columns between the header and footer, one narrower than the other.
 
-![cornell-notes-structure](/uploads/cornell-notes-structure.webp "cornell-notes-structure")
+![cornell-notes-structure](/uploads/cornell-notes.webp "cornell-notes-structure")
 
 **Header:** Here you can write the date and the main topic. You can also write an identifier, ex: Class 4, I added this one because it helps me to have a reference of the content or information sources.
 
@@ -27,10 +27,6 @@ To start divide the page into 4 parts: a header, a footer (both are of the page 
 **Notes:** Use paraphrase to write the ideas, it means to use your own words but avoid too long sentences and apply symbols like arrows, warnings, etc. Using colors helps a lot to give hierarchy to the ideas. When rereading your notes you can reflect on the material by asking yourself questions like: "How can it be applied?", " What's beyond these ideas?", "How can it be similar or connected to something that I already knew?", etc. To remember basic concepts, recite by answering the main questions while hiding the right-hand column.
 
 **Summary:** Write what you just learned with your own words. This is the most important part because you internalize knowledge.
-
-## Here's an example
-
-![](/uploads/cornell_notes-example.webp)
 
 As you can see, Cornell Notes helps us to remember easily using a structured organization of ideas. These can be applied by anybody who wants to be effective in learning something new because it encourages people to reflect on their ideas by summarizing them in their own words.
 
