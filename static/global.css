@@ -251,7 +251,7 @@ article img,
 }
 .article-description img {
   width: 50%;
-  height: 400px;
+  height: auto;
   margin-top: 1em;
 }
 
