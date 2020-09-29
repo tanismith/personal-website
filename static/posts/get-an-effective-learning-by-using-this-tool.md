@@ -35,8 +35,6 @@ As you can see, Cornell Notes helps us to remember easily using a structured org
 * Try to use just one page for any topic.
 * Review your notes at least 10 minutes 7 days after and one month after they were taken. If you do that you're boosting your memory to retain a great deal of information for current and future use.
 
-> \*"If you can't explain it simply, you don't understand it well enough"
-
-* Albert Einstein*
+> "If you can't explain it simply, you don't understand it well enough" ~Albert Einstein
 
 Finally, you can practice explaining to someone else if you can do that in the simplest way the knowledge is yours. Yeah! You got the power! Go and try for yourself!
