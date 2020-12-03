@@ -1,7 +1,7 @@
 ---
 slug: quotes-gallery
 title: Quotes-Gallery
-order: 3
+order: 5
 date: 2020-09-15T03:28:53.156Z
 overview: "UI design that shows a beautiful gallery of random quotes to find
   inspiration. "
