@@ -1,7 +1,7 @@
 ---
 slug: mashpi-chocolate-artesanal
 title: Mashpi Chocolate Artesanal
-order: 1
+order: 2
 date: 2019-06-11T00:19:48.612Z
 overview: "The challenge was creating a UX/UI for a website that meets the needs
   of the customers in lines with the goals of the brand through interactions
