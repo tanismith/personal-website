@@ -1,7 +1,7 @@
 ---
 slug: skincare-products-ecommerce-app
 title: Skincare products eCommerce app
-order: 2
+order: 4
 date: 2020-06-20T17:29:22.212Z
 overview: This project arises from a challenge to create a design for an
   eCommerce app that makes the shopping experience simple and enjoyable.  The
