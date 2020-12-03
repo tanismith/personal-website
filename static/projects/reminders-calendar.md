@@ -2,7 +2,7 @@
 slug: reminders-calendar
 title: Reminders calendar
 order: 1
-date: 2020-12-03T04:38:48.051Z
+date: 2020-10-12T04:38:48.051Z
 overview: UI design for a calendar web application to keep reminders built with React.
 tags:
   - UI design for web app
