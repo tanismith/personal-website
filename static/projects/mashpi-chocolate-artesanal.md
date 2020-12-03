@@ -92,7 +92,7 @@ Create a UX/UI new design website for Mashpi Chocolate, enhanced brand image, an
 \
 The website was built with WordPress to get the advantage of the CMS for the owners. They wanted to add and edit products. \
 \
-After launching the website the brand has increased the sales rate by 40% and has increased the visitors to their property showing them the way they manufactured a delicious chocolate.
+After launching the website the brand has increased the sales rate by 40% and has increased the visitors to their property showing them the way they manufactured delicious chocolate.
 
 \
 Click [here](https://tienda.chocomashpi.com/) to visit the live website.
