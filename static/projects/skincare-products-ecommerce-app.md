@@ -14,7 +14,7 @@ tools:
   - Adobe XD
 thumb: /uploads/presentation-1-.webp
 ---
-## Challenge 
+## Challenge
 
 The challenge was to create a design for an eCommerce app that makes the shopping experience simple and enjoyable.  The products shown are from an Ecuadorian brand specialized in cruelty-free, vegan, paraben-free lines of skincare products. 
 
@@ -31,7 +31,10 @@ In order to design the best experience is demanded to focus on the user and the 
 
 To make this possible the brand provided collected information from its users. Besides I applied an observational research method to determine behaviors, quotes, responses of the customers by seeing what actually happens in real-time.
 
-I could determine which type of user will be the app designed for.\
+I could determine which type of user will be the app designed for.
+
+![user persona chart](/uploads/user-persona-govegan.webp "user persona")
+
 This app focuses on female users who are looking for vegan products to maintain both facial and body skincare.
 
 Their commitment and love for ecology motivate them to use products not tested on animals and free of aggressive chemicals.
