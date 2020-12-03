@@ -86,8 +86,13 @@ I validated the product in terms of user flow and experience and identify areas 
 
 The website was built in WordPress and Woocommerce, a Spanish version for Ecuador, and an English version for the United States. The design is flexible and easy to change. The brand has control over the products they sell, they can add, edit, or delete.
 
-## Stage 6: Results
+## Stage 6: Final website
 
 Create a UX/UI new design website for Mashpi Chocolate, enhanced brand image, and have given a more clear value proposition that brought a higher affinity of users to trust and buy the products.\
 \
-Click [here](https://tienda.chocomashpi.com/) to visit the website.
+The website was built with WordPress to get the advantage of the CMS for the owners. They wanted to add and edit products. \
+\
+After launching the website the brand has increased the sales rate by 40% and has increased the visitors to their property showing them the way they manufactured a delicious chocolate.
+
+\
+Click [here](https://tienda.chocomashpi.com/) to visit the live website.
