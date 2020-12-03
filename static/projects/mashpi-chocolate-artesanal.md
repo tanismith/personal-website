@@ -22,6 +22,10 @@ Creating UX/UI for both users and the company. Mashpi Chocolate Artesanal is a r
 \
 The growth of the business demanded the need to update its E-commerce website to position itself and sell its products.
 
+## **My role**
+
+Research, Design, Development
+
 ## Stage 1: Know the brand
 
 To get a better idea I conducted an interview with Manuela, the brand's commercial representative. By understanding the brand's strengths, who is its audience, competitors. \
@@ -92,7 +96,8 @@ Create a UX/UI new design website for Mashpi Chocolate, enhanced brand image, an
 \
 The website was built with WordPress to get the advantage of the CMS for the owners. They wanted to add and edit products. \
 \
-After launching the website the brand has increased the sales rate by 40% and has increased the visitors to their property showing them the way they manufactured delicious chocolate.
+After launching the website the brand has increased the sales rate by 150% and has increased the visitors to their property showing them the way they manufactured delicious chocolate.
 
-\
-Click [here](https://tienda.chocomashpi.com/) to visit the live website.
+##### Deliverable
+
+https://chocomashpi.com
