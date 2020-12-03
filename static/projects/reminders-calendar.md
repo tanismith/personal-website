@@ -1,7 +1,7 @@
 ---
 slug: reminders-calendar
 title: Reminders calendar
-order: 5
+order: 1
 date: 2020-12-03T04:38:48.051Z
 overview: UI design for a calendar web application to keep reminders built with React.
 tags:
@@ -10,7 +10,7 @@ tools:
   - AdobeXD & React
 thumb: /uploads/calendar-app-screen.png
 img: /uploads/calendar-app-screen.png
-link: https://reminders-calendar.netlify.app/
+link: ""
 ---
 The app allows the users to add a new reminder.  They can choose day and time, also select color when creating a reminder. Selecting a city shows the weather forecast. The created reminders display on the calendar view in the correct time order and they can be edited. \
 \
